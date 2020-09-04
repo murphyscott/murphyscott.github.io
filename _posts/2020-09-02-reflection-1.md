@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Reflection 1; I survived... barely 
+title: "Reflection 1; I survived... barely" 
 ---
 
 Just when I felt as though I was getting the hang of creating posts and understanding code, Dr.P throws coding language in my face. Although intended to be a soft toss, it hit me like a brick wall. While reading the background information I felt confident that I was understanding what was being said; however, when it was time for the activity I felt completely helpless. Office hours seem very near in my future... At the end of the week, however, I am thankful for the challenge and eager to learn more about the art of coding(even if its just for a simple blog). As I'm navigating this course I want to learn as much as I can to harness these skills because my is goal to be able to confidently talk about basic coding","understand how to insert a graphic"
