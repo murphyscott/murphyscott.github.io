@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Activity 1 What is data?! Seriously, I don't know..."
 ---
 
