@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Figuring Out How to Code
 ---
  
