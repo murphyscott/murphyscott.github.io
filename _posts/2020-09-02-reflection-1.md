@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Reflection 1: I survived... barely" 
 ---
 
