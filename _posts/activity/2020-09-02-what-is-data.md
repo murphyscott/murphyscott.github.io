@@ -1,5 +1,5 @@
 ---
-title: "Activity 1 What is data?! Seriously, I don't know..."
+title: "Activity 1: What is data?! Seriously, I don't know..."
 ---
 
 After reading the background information provided about *data*, I soon realized there is an entire language out there I was overlooking. That language is code. There are so many ways to describe different actions that its overwhelming. 
