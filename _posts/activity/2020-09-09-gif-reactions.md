@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Activity 3: Reactions to Coding"
 ---
 
