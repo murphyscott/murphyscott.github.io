@@ -1,5 +1,5 @@
 ---
-title: "Activity 3: Reactions to Coding"
+title: "Activity 2: Reactions to Coding"
 ---
 
 Throughout this journey, Dr.P has tried to diguise coding through literary terms such as metaphor. I wish this would've made me feel better, however, the struggle is real. Here are some reactions in gif form on how I'm feeling at this point in my coding journey. 
