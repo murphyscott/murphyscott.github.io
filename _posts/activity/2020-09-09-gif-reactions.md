@@ -15,3 +15,5 @@ Me when I realized I wasn't a pro:
 
 Me because I learned something new:
 <iframe src="https://giphy.com/embed/3NtY188QaxDdC" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3NtY188QaxDdC">via GIPHY</a></p>
+
+If you find my writing dull, lack luster, or unfunny, clear [here](https://brightside.me/wonder-curiosities/24-funny-stories-with-unexpected-endings-529710/) for some funnier stories!
