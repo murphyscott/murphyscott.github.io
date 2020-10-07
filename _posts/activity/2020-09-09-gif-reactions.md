@@ -1,5 +1,10 @@
 ---
 title: "Activity 2: Reactions to Coding"
+author:
+  name: Murphy Scott
+  url: "murphyscott.github.io/_posts/activity/2020-09-09-gif-reactions.md"
+categories:
+- activities
 ---
 
 Throughout this journey, Dr.P has tried to diguise coding through literary terms such as metaphor. I wish this would've made me feel better, however, the struggle is real. Here are some reactions in gif form on how I'm feeling at this point in my coding journey. 
