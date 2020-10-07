@@ -38,6 +38,14 @@
 	</nav>
     </header>
     <main id="content" class="main-content" role="main">
+	    {% if post %}
+    {% assign categories = post.categories %}
+{% else %}
+    {% assign categories = page.categories %}
+{% endif %}
+ {% if categories.size > 0%}
+    <p><strong>Posted In</strong>: {{categories | join: ', ' | capitalize }}</p>
+{%endif%}
  {{ content }}
 
       <footer class="site-footer">
@@ -49,12 +57,3 @@
     </main>
   </body>
 </html>
-
-{% if post %}
-    {% assign categories = post.categories %}
-{% else %}
-    {% assign categories = page.categories %}
-{% endif %}
- {% if categories.size > 0%}
-    <p><strong>Posted In</strong>: {{categories | join: ', ' | capitalize }}</p>
-{%endif%}
