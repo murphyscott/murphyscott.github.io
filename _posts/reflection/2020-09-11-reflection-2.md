@@ -1,5 +1,10 @@
 ---
 title: "Reflection 2: I learned something new this week!" 
+author:
+  name: Murphy Scott
+  url: "murphyscott.github.io/_posts/reflection/2020-09-11-reflection-2.md"
+categories:
+- reflections
 ---
 
 This week was a very exciting week! I have learned how to perform one of my goals: inserting an image/video into a digital space through coding.
