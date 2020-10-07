@@ -1,5 +1,10 @@
 ---
 title: "Activity 1: What is data?! Seriously, I don't know..."
+author:
+  name: Murphy Scott
+  url: "murphyscott.github.io/_posts/activity/2020-09-02-what-is-data.md"
+categories:
+- activities
 ---
 
 After reading the background information provided about *data*, I soon realized there is an entire language out there I was overlooking. That language is code. There are so many ways to describe different actions that its overwhelming. 
