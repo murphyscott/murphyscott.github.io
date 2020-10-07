@@ -1,5 +1,10 @@
 ---
 title: "Reflection 3: Achieving Goals! YAY!"
+author:
+  name: Murphy Scott
+  url: "murphyscott.github.io/_posts/reflection/2020-09-18-reflection-3.md"
+categories:
+- reflections
 ---
 This week we learned about Markdown code versus HTML. Markdown and HTML have many differences including: 
 1. Differences between HTML and Markdown
