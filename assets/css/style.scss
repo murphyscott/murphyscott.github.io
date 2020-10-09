@@ -5,3 +5,21 @@
 body { background:#ebfcff; }
 /* Banner Color */
 #banner { background:#b06873; }
+
+/* Bar Color */
+#nav, #nav-inner, .nav-list, .nav-list-item a {
+background-color: #008B8B;
+color: #fffff0;
+}
+
+/* Link Hover Color */
+.nav-list-item a:hover {
+background: #333;
+color: #fff;
+}
+
+/* Nav Bar Border */
+#nav {
+border-top: 1px solid #000;
+border-bottom: 1px solid #000;
+}
