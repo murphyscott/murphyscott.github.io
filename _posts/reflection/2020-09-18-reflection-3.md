@@ -6,6 +6,9 @@ author:
 categories:
 - reflections
 ---
+Here is my weekly reaction to our lesson:
+<iframe src="https://giphy.com/embed/SqQtIZBo6q2I0" width="480" height="294" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/clueless-SqQtIZBo6q2I0">via GIPHY</a></p>
+
 This week we learned about Markdown code versus HTML. Markdown and HTML have many differences including: 
 1. Differences between HTML and Markdown
 	* Markdown is simpler
