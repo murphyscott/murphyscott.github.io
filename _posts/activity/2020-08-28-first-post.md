@@ -1,8 +1,8 @@
 ---
 title: "Activity 0: Figuring Out How to Code"
 author:
-  name: Murphy Scott
-  url: "murphyscott.github.io/_posts/activity/2020-08-28-first-post.md"
+  -name: Murphy Scott
+  -url: "murphyscott.github.io/_posts/activity/2020-08-28-first-post.md"
 categories:
 - about
 - activities
