@@ -13,7 +13,7 @@ This week's gif of the week entails such raw emotions that it might shock you to
 <iframe src="https://giphy.com/embed/uDRezGbZW1uo0" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/good-god-uDRezGbZW1uo0">via GIPHY</a></p>
 Pictured is one of my favorite TV characters ever, Nick Miller from New Girl. I definitely had to channel my inner Nick Miller this week while sorting through this activity. As Nick once said, 
 
-<blockquote>“I want to go in my room and do weird stuff on my computer.”</blockquote
+<blockquote>“I want to go in my room and do weird stuff on my computer.”</blockquote>
 
 Although simple, this gif shows how I felt trying to figure out CCS and styling. I'm not sure if I'm just dumb or lazy or both. I did however cry real tears when I managed to reset my theme. If I could make my blog look like whatever I would want it to look like [this](https://www.marieclaire.co.uk/fashion/the-best-fashion-blogs-ever-69888). Its subtle and understated yet classy. Instead of beige tones, however, I would like to use pink undertones. I've felt that pink is my signature color. Right now my blog looks like it was designed by a two year old with bad color coordination. I guess as long as I can still bring comedy and joy to my fans that's all I can do!
 
