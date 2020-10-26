@@ -16,7 +16,10 @@ Now tying this back to English, twine games are like being thrown into an intera
 
 So to recap on this week I would like to reiterate some things. Space Frog is a great game! It is full of action and intrigue yet still lets the player feel in control. It reminded me of many solo player video games that have a pairing narrative. Additionally, it also resembled an interactive, virtual story. It walks you through the life of Space Frog, much like a book would, but the reader gets to control what happens. Moreover resembling Netflix's interactive movie experiences.
 
-1. TLDR: 
-       *watch <i>Puss and Boots</i> the interactive experience
-       *play Portal 2 solo mode 
-       *watch <i>Clue</i> and pick your favorite ending 
+TLDR: 
+----
+<ul>
+<li>watch <i>Puss and Boots</i> the interactive experience</li>
+<li>play Portal 2 solo mode</li>
+<li>watch <i>Clue</i> and pick your favorite ending </li>
+</ul>
