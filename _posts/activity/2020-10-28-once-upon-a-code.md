@@ -2,7 +2,7 @@
 title: "Activity 4: Once Upon a Code"
 author:
   - name: Murphy Scott
-  - url: "murphyscott.github.io/_posts/activity/2020-08-28-first-post.md"
+  - url: "murphyscott.github.io/_posts/activity/2020-10-28-once-upon-a-code.md"
 categories:
 - activities
 ---
