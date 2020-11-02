@@ -7,4 +7,4 @@ categories:
 - activities
 ---
 
-<iframe src="murphyscott.github.io/2020-10-21-tracery.html" height="200" width="300" title="Story Time"></iframe>
+<iframe src="2020-10-21-tracery.html" height="200" width="300" title="Story Time"></iframe>
