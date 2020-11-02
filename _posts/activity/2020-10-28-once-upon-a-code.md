@@ -7,4 +7,4 @@ categories:
 - activities
 ---
 
-<iframe src="/2020-10-21-tracery.html" height="400" width="600" title="Story Time"></iframe>
+<iframe src="/2020-10-21-tracery.html" height="800" width="1200" title="Story Time"></iframe>
